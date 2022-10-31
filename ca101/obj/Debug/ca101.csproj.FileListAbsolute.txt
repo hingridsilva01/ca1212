@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Desktop\ca1212\ca101\bin\Debug\ca101.exe.config
+C:\Users\Tecnico\Desktop\ca1212\ca101\bin\Debug\ca101.exe
+C:\Users\Tecnico\Desktop\ca1212\ca101\bin\Debug\ca101.pdb
+C:\Users\Tecnico\Desktop\ca1212\ca101\obj\Debug\ca101.csprojAssemblyReference.cache
+C:\Users\Tecnico\Desktop\ca1212\ca101\obj\Debug\ca101.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Desktop\ca1212\ca101\obj\Debug\ca101.exe
+C:\Users\Tecnico\Desktop\ca1212\ca101\obj\Debug\ca101.pdb
